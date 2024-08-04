@@ -1,0 +1,49 @@
+INTRODUCTION 
+In recent years, online shopping has become increasingly popular, with more and more 
+people opting to purchase products and services online. As a result, businesses have had to 
+adapt to this new trend and come up with innovative ways to attract and retain customers. 
+One such way is by implementing dynamic pricing algorithms, which allow businesses to 
+adjust their prices in real-time based on a variety of factors, such as demand, competition, and 
+inventory levels. An online price tracker that uses dynamic pricing algorithms can be an 
+invaluable tool for both businesses and consumers. For businesses, it can help them stay 
+competitive by allowing them to adjust their prices in response to changes in the market. For 
+consumers, it can help them save money by alerting them to price drops or sales. An online 
+price tracker that uses dynamic pricing can provide valuable insights and help businesses 
+make data driven pricing decisions. By keeping track of price trends and adjusting prices in 
+real-time, businesses can stay ahead of the competition and maximize their profits. And for 
+consumers, it can help them save money and find the best deals online. 
+METHODOLOGY 
+The methodology of product price tracker with dynamic pricing, FP-Growth algorithm, and 
+web scraping can be summarized as follows: 
+First, use web scraping to extract the data of products from various online platforms, such as 
+their names, categories, descriptions, prices, ratings, reviews, etc. You can use Python 
+libraries such as requests, Beautiful Soup, auto scrapper etc. to perform web scraping. 
+Second, use dynamic pricing to adjust the prices of products based on various factors, such as 
+demand, supply, competition, customer behavior, etc. You can use historical data, sales trend, 
+demand, etc. to build a price recommender app with Python. You can also use machine 
+learning techniques, such as regression, classification, clustering, etc. to predict the optimal 
+prices of products. 
+Third, use FP-Growth algorithm to find the frequent item sets in the transactional database of 
+products. This can help you to identify the patterns of customer purchases, preferences, and 
+behavior. You can use Python libraries such as PySpark, MLlib, etc. to implement the FP
+Growth.
+ OBJECTIVES 
+• To give clients a platform to locate the best pricing for a product while saving them 
+time.  
+• Researching the internet buying habits of consumers, market upward and downward 
+trends, etc.  
+• To offer a new algorithm that is comparable to the dynamic pricing algorithm in terms 
+of effectiveness.  
+• To create a quality website utilizing web scraping and improve alerting skills using 
+emails.
+RESULT 
+The proposed system is a Real-Time Search Engine where users will find the best products 
+among multiple ecommerce websites. It will reduce time and money wasted on manual 
+filtering and will provide customers with a better shopping experience. Moreover, it will also 
+help ecommerce companies to identify price errors on their website and help provide better 
+service to customers. It will be automated, user-friendly and easy to use. The system uses 
+highly efficient and focused dynamic web crawlers which will filter out products at first level 
+based on the predefined set of parameters integrated into the system. The scraped products 
+will pass through dynamic pricing algorithm where each product will be ranked accordingly. 
+The filtration process during these stages will be highly rigorous and this will result in the 
+availability of the best products to the customers.
